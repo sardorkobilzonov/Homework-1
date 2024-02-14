@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.par1 {
+  padding: 20px 10px;
+  width: 100%;
+  height: 50%;
+  border: 5px solid;
+  border-color: greenyellow;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+.par2 {
+  margin-top: 20px;
+  font-size: 25px;
+  padding: 20px 10px;
+  width: 100%;
+  height: 50%;
+  border: 5px solid;
+  border-color: palevioletred;
+  border-radius: 10px;
+}
+
+.par3 {
+  font-size: 25px;
+  margin-top: 2px;
+  width: 65%;
+  height: 90%;
+  padding: 20px 10px;
+  border: 5px solid skyblue;
+  border-radius: 5px;
+}
+
+.par4 {
+  padding: 10px 5px;
+  font-size: 25px;
+  margin-top: 10px;
+  border: 5px solid greenyellow;
+  border-radius: 5px;
+}
+
+.par5 {
+  padding: 10px 5px;
+  font-size: 25px;
+  margin-top: 35%;
+  border: 5px solid violet;
+  border-radius: 5px;
+}
+
+.par6 {
+  padding: 10px 5px;
+  font-size: 25px;
+  margin-top: 1%;
+  border: 5px solid violet;
+  border-radius: 5px;
+}
+
+.par7 {
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 1%;
+  border: 5px solid yellow;
+  border-radius: 5px;
+}
+
+.par8 {
+  width: 35%;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 2px;
+  margin-left: 4px;
+  border: 5px solid palegoldenrod;
+  border-radius: 5px;
+}
+
+.par9 {
+  display: flex;
+}
+
+.par10 {
+  width: 100%;
+  height: 45%;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 2px;
+  margin-left: 4px;
+  border: 5px solid skyblue;
+  border-radius: 5px;
+}
+
+.par11 {
+  width: 100%;
+  height: 50%;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 4px;
+  border: 5px solid skyblue;
+  border-radius: 5px;
+}
+
+.par12 {
+  width: 99%;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 5px;
+  margin-left: 4px;
+  border: 5px solid yellow;
+  border-radius: 5px;
+}

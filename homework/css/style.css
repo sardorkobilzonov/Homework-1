@@ -1,0 +1,269 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* html {
+  box-sizing: border-box;
+} */
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 1045px;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box__1 {
+  padding-top: 219px;
+  text-align: center;
+}
+
+.box__2 {
+  text-align: center;
+  padding-top: 8px;
+}
+
+.name__form {
+  margin-top: 70px;
+  margin-left: 140px;
+  width: 684px;
+  height: 60px;
+  padding: 20px;
+  border: 0.5px;
+  display: flex;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+}
+
+.tel__form {
+  margin-top: 19px;
+  margin-left: 140px;
+  width: 684px;
+  height: 60px;
+  padding: 20px;
+  border: 0.5px;
+  display: flex;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+}
+
+.email__form {
+  margin-top: 19px;
+  margin-left: 140px;
+  width: 684px;
+  height: 60px;
+  padding: 20px;
+  border: 0.5px;
+  display: flex;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+}
+
+.text__form {
+  margin-top: 19px;
+  margin-left: 140px;
+  margin-bottom: 20px;
+  width: 684px;
+  height: 110px;
+  padding: 20px;
+  border: 0.5px;
+  display: flex;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+}
+
+.form__btn {
+  margin-top: 19px;
+  margin-left: 140px;
+  margin-bottom: 220px;
+  width: 684px;
+  height: 60px;
+  padding: 20px 302px;
+  border: 0.5px;
+  display: flex;
+  gap: 10px;
+  text-align: center;
+  border: 0.5px solid black;
+  background-color: black;
+  color: white;
+}
+
+.life__main {
+  background-color: #f3f3f5;
+}
+
+.life__title {
+  padding-top: 153px;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 61px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.life__text {
+  padding-top: 16px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.life__name {
+  margin-top: 43px;
+  padding: 19px 23px;
+  height: 63.4px;
+  width: 407.55px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+  color: #5c5c5c;
+}
+
+.life__country {
+  margin-top: 43px;
+  margin-left: 25px;
+  padding: 19px 23px;
+  height: 63.4px;
+  width: 407.55px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+  color: #5c5c5c;
+}
+
+.life__phone {
+  margin-top: 12px;
+  padding: 19px 23px;
+  height: 63.4px;
+  width: 407.55px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+  color: #5c5c5c;
+}
+
+.life__service {
+  margin-top: 12px;
+  margin-left: 25px;
+  padding: 19px 23px;
+  height: 63.4px;
+  width: 407.55px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+  color: #5c5c5c;
+}
+
+.life__email {
+  margin-top: 12px;
+  padding: 19px 23px;
+  width: 845px;
+  height: 63px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+}
+
+.life__project {
+  margin-top: 12px;
+  margin-bottom: 20px;
+  padding-left: 23px;
+  padding-top: 10px;
+  width: 840px;
+  height: 147.17px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #b6b6b6;
+}
+
+.life__btn {
+  margin-top: 18px;
+  margin-bottom: 35px;
+  width: 840px;
+  height: 75.85px;
+  padding: 10px, 23px, 10px, 23px;
+  border-radius: 8px;
+  border: 0.5px;
+  gap: 10px;
+  border: 0.5px solid #a7a7a7;
+  background-color: #b99674;
+  color: #a7a7a7;
+
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.links {
+  margin-right: 380px;
+}
+
+.links__container {
+  max-width: 1045px;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.give {
+  display: flex;
+}
+
+.give__img {
+  padding: 30px;
+  border-radius: 4px;
+  border: 2px;
+  gap: 10px;
+}
+
+.give__text {
+  font-family: Encode Sans;
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #a78768;
+}
+
+.give__tel {
+  padding-top: 21px;
+}
+
+.give__title {
+  padding-top: 30px;
+}
+
+.img__links {
+  padding-top: 51px;
+  padding-left: 30px;
+}
+
+.get__section {
+  width: 1075px;
+  height: 600px;
+  background-color: #b99674;
+}
